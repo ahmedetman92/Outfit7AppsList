@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Outfit7 Apps</string>
+    <string name="open_app">Open app</string>
+    <string name="package_name">Package Name: </string>
+    <string name="version_code">Version Code: </string>
+    <string name="version_name">Version Name:</string>
+    <string name="no_apps">There is no Outfit7 apps installed</string>
+</resources>
+
+
